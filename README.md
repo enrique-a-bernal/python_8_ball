@@ -1,2 +1,3 @@
 # python_8_ball
-Python Magic 8 Ball Game
+Welcome to my take on the classic Magic 8 Ball built on Python.
+It includes a welcome message, opportunity to input a question and play again options.
